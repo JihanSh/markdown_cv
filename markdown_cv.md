@@ -1,6 +1,6 @@
-![j](https://github.com/JihanSh/NewCodiBot/commit/abd6c250117fca3fd0d5bc8ff75c7e4769644d4d)
 # <div align="center"> **Jihan Shamas** </div>
 ## <div align="center"> **Mechanical Engineer** </div>
+<img src="profile.jpeg" alt="Profile">
 <div align="center"> Beirut, Lebanon/+(961)3 473 351/jihan.shamas@gmail.com
 <br></br>
 A mechanical engineer and a member of the Order of Engineers and Architects in Beirut with more than three
