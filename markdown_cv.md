@@ -1,7 +1,7 @@
 ![j](https://github.com/JihanSh/NewCodiBot/commit/abd6c250117fca3fd0d5bc8ff75c7e4769644d4d)
 # <div align="center"> **Jihan Shamas** </div>
 ## <div align="center"> **Mechanical Engineer** </div>
-<div align="center"> Beirut, Lebanon/+(961)3 473 351/
+<div align="center"> Beirut, Lebanon/+(961)3 473 351/jihan.shamas@gmail.com
 <br></br>
 A mechanical engineer and a member of the Order of Engineers and Architects in Beirut with more than three
 years of experience in HVAC and Plumbing design. Expertise in AutoCAD, Carrier HAP, site supervision,
@@ -55,6 +55,7 @@ Lebanese International University
 ---
 ### **Certificates**
 
+HVAC, Plumbing, and Sanitary Workshops
 
 ---
 ### **Projects**
